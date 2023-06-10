@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <transcriptionFont />
+  <freeTranslationFont />
+  <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
+  <Title>MV0460</Title>
+  <FundingProjectTitle />
+  <ProjectDescription />
+  <VernacularISO3CodeAndName />
+  <AnalysisISO3CodeAndName />
+  <Location />
+  <Region />
+  <Country>Unspecified</Country>
+  <Continent>Unspecified</Continent>
+  <ContactPerson />
+  <AccessProtocol />
+  <DateAvailable />
+  <RightsHolder />
+  <Depositor />
+  <IMDIOutputDirectory />
+</Project>
